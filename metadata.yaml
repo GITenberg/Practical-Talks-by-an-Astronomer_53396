@@ -1,0 +1,29 @@
+_repo: Practical-Talks-by-an-Astronomer_53396
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jacoby, Harold
+    birthdate: 1865
+    deathdate: 1932
+    gutenberg_agent_id: '47357'
+    url: http://www.gutenberg.org/2009/agents/47357
+description: ''
+gutenberg_issued: '2016-10-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53396'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Astronomy'
+- !lcc 'QB'
+- GITenberg
+tableOfContents: Navigation at sea -- The Pleiades -- The pole-star -- Nebulæ -- Temporary
+  stars -- Galileo -- The planet of 1898 -- How to make a sun-dial -- Photography
+  in astronomy -- Time standards of the world -- Motions of the earth's pole -- Saturn's
+  rings -- The heliometer -- Occultations -- Mounting great telescopes -- The astronomer's
+  pole -- The moon hoax -- The sun's destination.
+title: Practical Talks by an Astronomer
+url: http://www.gutenberg.org/ebooks/53396
